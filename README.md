@@ -1,7 +1,7 @@
 # Phoninfo
 Get detailed information of any phone number.
 You'll get its country, city, carrier, time zone,
-current time in its area and chech if it's valid or not.
+current time in its area and check if it's valid or not.
 
 # Installation
 
