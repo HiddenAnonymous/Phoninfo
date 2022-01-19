@@ -12,7 +12,7 @@ python main.py
 ```
 # Note
 
-Enter your target phone number with country code ex:
+Enter your target phone number with country code example:
 +91xxxxxxxx.
 
 # YouTube
