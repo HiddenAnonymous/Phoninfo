@@ -7,7 +7,7 @@ current time in its area and chech if it's valid or not.
 
 ```
 git clone https://github.com/HiddenAnonymous/Phoninfo
-cd Phoneinfo && ls
+cd Phoninfo && ls
 python main.py
 ```
 # Note
